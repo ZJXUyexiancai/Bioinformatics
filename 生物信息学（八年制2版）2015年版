@@ -1,62 +1,62 @@
 生物信息学（八年制2版）2015年版
+
 目录
-绪论
-INTRODUCTON TO BIOINFORMATCS
-第一节 物信息学的兴起 Section l The Rise of Bioinformatics
-第二节生物信息学的内涵及其在生命科学中的应用Section 2 Bioinformatics and lts Application in Life Seience
-一、生物信息学的内涵
-二、生物信息学在现代生物医学中的应用
-第三节大数据时代的生物信息学与医学Section 3 Bioinfomatics and Medieine: The Era ofBig Data
-一、人类基因组计划 
-二、组学与生物信息学
-三、大数据时代的生物信息学与医学
+  绪论 INTRODUCTON TO BIOINFORMATCS
+    第一节 物信息学的兴起 Section l The Rise of Bioinformatics
+    第二节生物信息学的内涵及其在生命科学中的应用Section 2 Bioinformatics and lts Application in Life Seience
+      一、生物信息学的内涵
+      二、生物信息学在现代生物医学中的应用
+    第三节大数据时代的生物信息学与医学Section 3 Bioinfomatics and Medieine: The Era ofBig Data
+      一、人类基因组计划 
+      二、组学与生物信息学
+      三、大数据时代的生物信息学与医学
 第一篇 生物信息学基础
 
 第一章 生物序列资源 CHAPTER 1 BIOLOGICAL SEQUENCE RESOURCES 
-第一节 引言 Section l Inroduction 
-第二节 NCBI数据库与数据资源Section2 NCBI Data Sourcse
-一、NCB[序列数据库概述
-二、NBl中的重要子库介绍
-第三节 UCSC基因组浏览器与数据资源 Section 3 UCSC Genome Browser and Data Source
-一、UCSC概述
-二、UCSC其因组测览器
-二、UCSC中的数据资源和常用工具
-第四节EMBLEBI数据库与数据资源 Section4 EMBL EBl Data Sources and Tools
-一、EMBL-EBI数据库概况
-二、EMBL基因组和核酸序列资源
-三、UniProt蛋自质教据资源
-四、Biomart数据检索平台
-第五节 重要的非编码基因数据库Section5 The lmportant Non-coding Gene Databases
-一、ENCODE数据库与数据资源
-二、microRNA数据资源miRBase
+  第一节 引言 Section l Inroduction 
+  第二节 NCBI数据库与数据资源Section2 NCBI Data Sourcse
+    一、NCB[序列数据库概述
+    二、NBl中的重要子库介绍
+  第三节 UCSC基因组浏览器与数据资源 Section 3 UCSC Genome Browser and Data Source
+    一、UCSC概述
+    二、UCSC其因组测览器
+    二、UCSC中的数据资源和常用工具
+  第四节EMBLEBI数据库与数据资源 Section4 EMBL EBl Data Sources and Tools
+    一、EMBL-EBI数据库概况
+    二、EMBL基因组和核酸序列资源
+    三、UniProt蛋自质教据资源
+    四、Biomart数据检索平台
+  第五节 重要的非编码基因数据库Section5 The lmportant Non-coding Gene Databases
+    一、ENCODE数据库与数据资源
+    二、microRNA数据资源miRBase
 
 第二章 序列对比 CHAPTER 2 SEQUENCE ALGNMENT
-第一节 引言 Section 1 Introduction
-一、同源、相似与距腐
-二、相似与距离的定量描述
-二、算法实现的比对 
-四、序列比对的作用
-第二节比对算法概要Section 2 Alignment Algorithms
-一、替换计分矩阵
-二、双序列全局比对
-三、双序列局部比对
-四、多序列全局比对
-五、多序列局部比对
-六、比对的统计显著性
-第三节 数据库索  Section 3 Database Search
-一、经典BLAST
-二、衍生BLAST
-三、BLAT
-四、RNA序列搜索
-五、数据库搜索的统计显著性
-第四节 比对软件、参数与数资源 Section 4 Alignment Software  Parameter and Resouree
-一、参数选择的一般原则
-二、主要比对软件 
-三、EBI中的序列比对工具
-四、UCSC中的BLAT比对工具
-第五节 比对技术的发展Section 5 Advances of Alignment Techniques
-一、glocal比对 
-二、全基因组比对
+  第一节 引言 Section 1 Introduction
+    一、同源、相似与距腐
+    二、相似与距离的定量描述
+    二、算法实现的比对 
+    四、序列比对的作用
+  第二节比对算法概要Section 2 Alignment Algorithms
+    一、替换计分矩阵
+    二、双序列全局比对
+    三、双序列局部比对
+    四、多序列全局比对
+    五、多序列局部比对
+    六、比对的统计显著性
+  第三节 数据库索  Section 3 Database Search
+    一、经典BLAST
+    二、衍生BLAST
+    三、BLAT
+    四、RNA序列搜索
+    五、数据库搜索的统计显著性
+  第四节 比对软件、参数与数资源 Section 4 Alignment Software  Parameter and Resouree
+    一、参数选择的一般原则
+    二、主要比对软件 
+    三、EBI中的序列比对工具
+    四、UCSC中的BLAT比对工具
+  第五节 比对技术的发展Section 5 Advances of Alignment Techniques
+    一、glocal比对 
+    二、全基因组比对
 
 第三章 序列特征分析 CHAPTER 3 SEQUENCE CHARACTER ANALYSIS
 第一节 引言 Section l Introduction
