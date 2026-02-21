@@ -59,159 +59,151 @@
     二、全基因组比对
 
 第三章 序列特征分析 CHAPTER 3 SEQUENCE CHARACTER ANALYSIS
-第一节 引言 Section l Introduction
-第二节 DNA列特征分析 Scction 2 DNA Sequence Character Analysis
-一、DNA序列的基本信息
-二、DNA序列的特征信息
-三、基因组结构注释分析
-第三节蛋白质序列特征分析 Section3 Protein Sequence Character Analysis
-一、蛋白质序列的基本信息分析
-二、蛋白质序列的特征信息分析
-三、蛋白质序列的功能信息分析
-第四节RNA序列与结构特征分析 Section 4 Analysis of RNA Sequence and Structure Characters
-一、RNA的列特征
-二、RNA的结构特征
-三、RNA二级结构预测方法
-四、RNA结构预测的在线资源与软件
-第五节表达序列特征分析 Section 5 Analysis of Expressed Sequence Characters
-一、表达序列的获取和数据库资源
-二、表达序列标签分析方法
-三、GEO数据处理与分析
-四、SAGE教据分析
+  第一节 引言 Section l Introduction
+  第二节 DNA列特征分析 Scction 2 DNA Sequence Character Analysis
+    一、DNA序列的基本信息
+    二、DNA序列的特征信息
+    三、基因组结构注释分析
+  第三节蛋白质序列特征分析 Section3 Protein Sequence Character Analysis
+    一、蛋白质序列的基本信息分析
+    二、蛋白质序列的特征信息分析
+    三、蛋白质序列的功能信息分析
+  第四节RNA序列与结构特征分析 Section 4 Analysis of RNA Sequence and Structure Characters
+    一、RNA的列特征
+    二、RNA的结构特征
+    三、RNA二级结构预测方法
+    四、RNA结构预测的在线资源与软件
+  第五节表达序列特征分析 Section 5 Analysis of Expressed Sequence Characters
+    一、表达序列的获取和数据库资源
+    二、表达序列标签分析方法
+    三、GEO数据处理与分析
+    四、SAGE教据分析
 
 第四章 分子进化分析CHAPTER 4 MOLECULAR EVOLUTON ANALYSIS
-第一节 引言 Section 1 Introduction
-第二节 系统发生分析与重建 Section2 Phylogeny Reconstruction
-一、核苷酸置换模型及氨基酸置换模型
-二、系统发生树的基本概念及搜索方法
-三、分子钟假说 
-第三节 核苷酸和蛋白质的适应性进化 Section 3 Adaptive Evolutions of Nucleotide and Protein
-一、中性与近中性理论
-二、微观适应性进化的检验方法
-三、宏观适应性进化的检验方法
-四、造应性进化基因
-第四节 分子进化与生物信息学 Section 4  Moleeular Evolution and Bioinformatics
-一、基因组进化概述
-二、病毒基因组进化 
-三、原核生物基因组比较 
-四、蛋白质互作网络进化
-五、代谢网络进化分析
-六、肿瘤细胞微进化 
-第五节 应用实例——慢性淋巴细胞白血病突变进化研究
-Section 5 Evolution of Subelonal Mutations in Chronic Lymphocytic Leukemia
+  第一节 引言 Section 1 Introduction
+  第二节 系统发生分析与重建 Section2 Phylogeny Reconstruction
+    一、核苷酸置换模型及氨基酸置换模型
+    二、系统发生树的基本概念及搜索方法
+    三、分子钟假说 
+  第三节 核苷酸和蛋白质的适应性进化 Section 3 Adaptive Evolutions of Nucleotide and Protein
+    一、中性与近中性理论
+    二、微观适应性进化的检验方法
+    三、宏观适应性进化的检验方法
+    四、造应性进化基因
+  第四节 分子进化与生物信息学 Section 4  Moleeular Evolution and Bioinformatics
+    一、基因组进化概述
+    二、病毒基因组进化 
+    三、原核生物基因组比较 
+    四、蛋白质互作网络进化
+    五、代谢网络进化分析
+    六、肿瘤细胞微进化 
+  第五节 应用实例——慢性淋巴细胞白血病突变进化研究  Section 5 Evolution of Subelonal Mutations in Chronic Lymphocytic Leukemia
 
 第五章 基因表达数据分析 CHAPTER 5 GENE EXPRESSION DATA ANALYSIS
-第一节 引言 Section l Introduction
-一、概述
-二、基因表达测定原理
-三、暴因表达测定的应用
-第二节 基因表达测定平台与数据库Section 2 Microaray Platfomm and Daatabases
-一、基因表达测定平台介绍
-二、Microarray技术与RNA-Seq技术的比较
-三、基因表达数据库
-第三节 数据预处理与差异表达分析
-Section 3 Preprocessing of Microarray Data and Analysis of Differential Expression Gene
-一、基因芯片教据预处理
-二、差异表达分析基本原理与方法
-三、差异表达分析应用 
-第四节 聚类分析与分类分析 Section4 Custering Analysis and Classifcation
-一、聚类分析中的距离(相似性)尺度函数
-二、聚类分析中的聚类算法
-三、分类分析
-四、分类模型的分类效能评价
-第五节基因表达谱数据分析软件 Section 5 Software Tools for Gene Expression Profile Analysis
-一、基因表达谱数据分析软件简介
-二、R语言和BioConductor
-三、差异表达分析软件
-四、聚类分析软件介绍(Cluster和TreeView)
-五、Matlab生物信息学工具箱
+  第一节 引言 Section l Introduction
+    一、概述
+    二、基因表达测定原理
+    三、暴因表达测定的应用
+  第二节 基因表达测定平台与数据库Section 2 Microaray Platfomm and Daatabases
+    一、基因表达测定平台介绍
+    二、Microarray技术与RNA-Seq技术的比较
+    三、基因表达数据库
+  第三节 数据预处理与差异表达分析 Section 3 Preprocessing of Microarray Data and Analysis of Differential Expression Gene
+    一、基因芯片教据预处理
+    二、差异表达分析基本原理与方法
+    三、差异表达分析应用 
+  第四节 聚类分析与分类分析 Section4 Custering Analysis and Classifcation
+    一、聚类分析中的距离(相似性)尺度函数
+    二、聚类分析中的聚类算法
+    三、分类分析
+    四、分类模型的分类效能评价
+  第五节基因表达谱数据分析软件 Section 5 Software Tools for Gene Expression Profile Analysis
+    一、基因表达谱数据分析软件简介
+    二、R语言和BioConductor
+    三、差异表达分析软件
+    四、聚类分析软件介绍(Cluster和TreeView)
+    五、Matlab生物信息学工具箱
 
 第二篇 功能基因组信息学
-第六章 蛋白质组和蛋白质结构分析
-CHAPTER 6 PROTEOMICS AND ANALYSIS OF PROTEIN STRUCTURE
-第一节 引言  Section 1 lntroduction 
-第二节 Section 2 Proteomics Data Acquisition and Analysis
-一、二维凝胶电泳分析技术
-二、蛋白质组质谱分析技术
-三、蛋白质芯片分析技术
-四、酵母双杂交系统
-五、Rogetta Stone方法
-六、蛋白质组学分析软件与数据库
-第三节 质结构的预测 Section 3 Prediction of Protein Structure
-一、蛋自质结构预测概述
-二、蛋白质二级结构预测方法及软件
-三、蛋白质三维结构预测方法及软件
-四、对结构预测结果的评价
-第四节 蛋白质结构数据库 Section 4 Protein Structure Databases
-一、蛋白质三维结构数据库
-二、蛋白质结构分类数据库
-三、其他常用蛋白质结构数据库
-第五节 蛋自质功能分析Section 5 Analysis of Protein Function 
-一、蛋白质功能分析概述
-二、蛋白质功能预测方法
-三、蛋白质结构与功能关系数据库
-第六节 蛋白质结构异常与疾病 Section 6 Abnormal Protein Structure and Diseases
-一、蛋白质序列变化引发疾病
-二、蛋白质折叠错误引发疾病
-三、蛋白质相互作用的变化引发疾病
+第六章 蛋白质组和蛋白质结构分析  CHAPTER 6 PROTEOMICS AND ANALYSIS OF PROTEIN STRUCTURE
+  第一节 引言  Section 1 lntroduction 
+  第二节 Section 2 Proteomics Data Acquisition and Analysis
+    一、二维凝胶电泳分析技术
+    二、蛋白质组质谱分析技术
+    三、蛋白质芯片分析技术
+    四、酵母双杂交系统
+    五、Rogetta Stone方法
+    六、蛋白质组学分析软件与数据库
+  第三节 质结构的预测 Section 3 Prediction of Protein Structure
+    一、蛋自质结构预测概述
+    二、蛋白质二级结构预测方法及软件
+    三、蛋白质三维结构预测方法及软件
+    四、对结构预测结果的评价
+  第四节 蛋白质结构数据库 Section 4 Protein Structure Databases
+    一、蛋白质三维结构数据库
+    二、蛋白质结构分类数据库
+    三、其他常用蛋白质结构数据库
+  第五节 蛋自质功能分析Section 5 Analysis of Protein Function 
+    一、蛋白质功能分析概述
+    二、蛋白质功能预测方法
+    三、蛋白质结构与功能关系数据库
+  第六节 蛋白质结构异常与疾病 Section 6 Abnormal Protein Structure and Diseases
+    一、蛋白质序列变化引发疾病
+    二、蛋白质折叠错误引发疾病
+    三、蛋白质相互作用的变化引发疾病
 
-第七章 基因注释与功能表达 
-CHAPTER 7 GENE ANNOTATION AND FUNCTIONAL CLASSIFICATION
-第一节 引言  Section 1 lntroduction
-第二节 基因注释数据库 Section 2 Gene Annotation Database 
-一、Gene Ontology数据库
-二、KEGG通路数据库
-第三节 基因集功能富集分析 Section 3 Gene Set Enrichment Analysis
-一、富集分析算法
-二、常用富集分析软件
-三、富集分析应用实例
-第四节 基因功能预测 Section 4 Gene Function Prediction
-一、基因功能预测算法
-二、常用基因功能预测软件
+第七章 基因注释与功能表达 CHAPTER 7 GENE ANNOTATION AND FUNCTIONAL CLASSIFICATION
+  第一节 引言  Section 1 lntroduction
+  第二节 基因注释数据库 Section 2 Gene Annotation Database 
+    一、Gene Ontology数据库
+    二、KEGG通路数据库
+  第三节 基因集功能富集分析 Section 3 Gene Set Enrichment Analysis
+    一、富集分析算法
+    二、常用富集分析软件
+    三、富集分析应用实例
+  第四节 基因功能预测 Section 4 Gene Function Prediction
+    一、基因功能预测算法
+    二、常用基因功能预测软件
 
-第八章 转录组调控的信息学分析
-CHAPTER 8 BIOINFORMATICS ANALYSIS OF TRANSCRIPTIONAL REGULATION
-第一节 引言  Section 1 lntroduction 
-第二节 转录因子结会位点的信息学预测方法
-Section 2 Prediction of Transcriptional Factor Binding sites
-一、转录因子结合位点的表示方法
-二、转录因子结合位点的定位
-三、转录因子结合位点的识别
-第三节 转录调控相关数据库Section 3 Transcriptional Regulation Databases
-一、TRANSFAC数据库
-二、JASPAR数据库
-三、TRED数据库
-四、其他转录调控相关数据库
-第九章 生物分子网络与通路
-CHAPTER 9 BIOMOLECULAR NETWORK AND PATHWAY
-第一节 引言  Section 1 lntroduction 
-第二节 生物分子网络和通路概述
-Section 2 Overview of Biomolecular Network and Pathway
-一、生物分子网络与通路的基本概念
-二、转录调控网络
-二、转录后调控网络
-四、蛋白质互作网络
-五、信号转导通路和代谢通路
-六、其他类型的生物网络
-七、生物分子网络和通路数据资源
-第三节 生物分子网络分析 Section 3 Analysis of Biomolecular Network
-一、网络的拓扑属性
-二、无标度网络
-三、生物分子网络的模块性
-四、网络模块
-五、生物分子网络的动态性 
-六、生物分子网络分析软件
-第四节 生物分子网络的重构和应用
-Section 4 Reconstruction and Application of Biomolecular Network
-一、生物分子网络重构的一般方法
-二、基因表达相关网络的重构和应用
-三、转录调控网络的重构和应用
-四、蛋白质互作网络的重构和应用
-第五节 生物通路的重构和应用
-Section 5 Reconstruction and Application of Biological Pathway
-一、代谢网络重构和应用
-二、信号转导网络的重构和应用
-三、子通路的重构和应用
+第八章 转录组调控的信息学分析  CHAPTER 8 BIOINFORMATICS ANALYSIS OF TRANSCRIPTIONAL REGULATION
+  第一节 引言  Section 1 lntroduction 
+  第二节 转录因子结会位点的信息学预测方法Section 2 Prediction of Transcriptional Factor Binding sites
+    一、转录因子结合位点的表示方法
+    二、转录因子结合位点的定位
+    三、转录因子结合位点的识别
+  第三节 转录调控相关数据库Section 3 Transcriptional Regulation Databases
+    一、TRANSFAC数据库
+    二、JASPAR数据库
+    三、TRED数据库
+    四、其他转录调控相关数据库
+
+第九章 生物分子网络与通路CHAPTER 9 BIOMOLECULAR NETWORK AND PATHWAY
+  第一节 引言  Section 1 lntroduction 
+  第二节 生物分子网络和通路概述  Section 2 Overview of Biomolecular Network and Pathway
+    一、生物分子网络与通路的基本概念
+    二、转录调控网络
+    二、转录后调控网络
+    四、蛋白质互作网络
+    五、信号转导通路和代谢通路
+    六、其他类型的生物网络
+    七、生物分子网络和通路数据资源
+  第三节 生物分子网络分析 Section 3 Analysis of Biomolecular Network
+    一、网络的拓扑属性
+    二、无标度网络
+    三、生物分子网络的模块性
+    四、网络模块
+    五、生物分子网络的动态性 
+    六、生物分子网络分析软件
+  第四节 生物分子网络的重构和应用  Section 4 Reconstruction and Application of Biomolecular Network
+    一、生物分子网络重构的一般方法
+    二、基因表达相关网络的重构和应用
+    三、转录调控网络的重构和应用
+    四、蛋白质互作网络的重构和应用
+  第五节 生物通路的重构和应用  Section 5 Reconstruction and Application of Biological Pathway
+    一、代谢网络重构和应用
+    二、信号转导网络的重构和应用
+  三、子通路的重构和应用
+
 第十章 计算表观遗传学
 CHAPTER 10 COMPUTATIONAL EPIGENETICS
 第一节 引言  Section 1 lntroduction 
@@ -237,8 +229,8 @@ Section 5 Databases and Softwares in Epigenetics
 二、表观遗传学常用软件
 第三篇 生物信息学与人类复杂疾病
 BIOINFORMATICS IN HUMAN DISEASES
-第十一章 复杂疾病的分子特征与计算分析
-CHAPTER 11 MOLECULAR CHARACTERS AND COMPUTATIONAL ANALYSIS OF COMPLEX DISEASE
+
+第十一章 复杂疾病的分子特征与计算分析  CHAPTER 11 MOLECULAR CHARACTERS AND COMPUTATIONAL ANALYSIS OF COMPLEX DISEASE
 第一节 引言 Section 1 Introduction 
 第二节 复杂疾病的分子特征与数据资源
 Section 2 Molecular Characters and Data of Complex Disease
@@ -258,11 +250,11 @@ Section 4 Statistical Genetics Softwares and Application
 二、统计遗传学集成分析软件Plink
 三、SNPtest与Meta分析
 四、Merlin与数量性状分析
+
 第十二章 非编码RNA与复杂疾病
 CHAPTER 12 NON-CODING RNA AND COMPLEX DISEASE
 第一节 引言 Section 1 Introduction 
-第二节 非编码RNA与其靶基因
-Section 2 Non-coding RNAs and Targets
+第二节 非编码RNA与其靶基因  Section 2 Non-coding RNAs and Targets
 一、miRNA概述
 二、基于序列的miRNA靶基因预测方法
 三、基于表达信息预测miRNA靶基因
@@ -289,6 +281,7 @@ Section 5 Computational ldentification of Complex iseases Associated Non-coding 
 二、复杂疾病相关 miRNA的计算识别
 三、复杂疾病相关lncRNA的计算识别…
 四、复杂疾病相关非编码RNA数据资源
+
 第十三章 新一代测序技术与复杂疾病
 CHAPTER 13 NEXT-GENERATION SEQUENCING AND COMPLEX DISEASE
 第一节 引言 Section 1 Introduction 
@@ -331,12 +324,10 @@ CHAPTER 14 PHARMACEUTICAL BIOINFORMATICS
 一、药物基因组学的概念和研究目的
 二、药物基因组生物标志物的发现与验证
 三、药物基因组与新药开发
-第四节 药物基因组相关生物物信息资源
-Section 4 Pharmacogenomies and Biological Information Resources
+第四节 药物基因组相关生物物信息资源  Section 4 Pharmacogenomies and Biological Information Resources
 一、药物基因组数据库
 二、生物芯片与药物基因组学研究
-第五节 基于药物基因组的个体化药物治疗
-Section 5 Individualized Drug Therapy Based on Pharmacogenomics
+第五节 基于药物基因组的个体化药物治疗  Section 5 Individualized Drug Therapy Based on Pharmacogenomics
 一、肿瘤靶向药物的个体化治疗
 二、基于药物基因组的药物不良反应预测
 三、基于药物基因组的用药剂量预测
